@@ -9,7 +9,7 @@
 
 More about me:
 - 🔭 I’m currently working at [Diagnosis To Perform](https://d2p.com.br/)
-- 🌱 I'm a Computer Engineering student in [UEMA (Universidade Estadual do Maranhão)](https://www.uema.br/)
+- 🌱 I'm a Computer Engineer!
 - 💬  Ask me about anything [here](https://github.com/gsantoscomp/gsantoscomp/issues)
 <br/>
 
